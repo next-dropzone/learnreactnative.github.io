@@ -870,6 +870,7 @@ table tfoot td {
 .wrapper {
   max-width: 1250px;
   position: relative;
+  margin: 0 auto;
 }
 
 .post, .article-page {
@@ -912,7 +913,7 @@ table tfoot td {
           justify-content: space-between;
   position: fixed;
   top: 0;
-  left: 0;
+  left: auto;
   bottom: 0;
   width: 240px;
   height: 100%;
@@ -1121,7 +1122,8 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
-  width: 30%;
+  /* width: 30%; */
+  width: 35%;
   max-width: 100%;
   min-height: 11rem;
   -webkit-background-size: cover;
