@@ -2,7 +2,7 @@
 layout: post
 title: React Native Default Structure
 date: 2018-04-28 00:00:00 +0300
-description: 
+description: One of the great things about React Native is the flexibility. You can do just about anything including organize the project however you want. This is great! But can be daunting as well, especially to new developers.
 img: react-native-default-structure.png # Add image post (optional)
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native] # add tag
 ---
