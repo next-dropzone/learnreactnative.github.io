@@ -1,7 +1,7 @@
 ---
 layout: post
 title: React Native Default Structure
-date: 2018-04-27 00:00:00 +0300
+date: 2018-04-28 00:00:00 +0300
 description: 
 img: react-native-default-structure.png # Add image post (optional)
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native] # add tag
