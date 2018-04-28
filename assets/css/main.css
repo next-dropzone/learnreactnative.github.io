@@ -140,7 +140,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -446,9 +446,9 @@ template {
 .highlighter-rouge {
   color: #ce887b;
   font-weight: 400;
-  border: 1px solid #607D8B;
-  -webkit-border-radius: 3px;
-          border-radius: 3px;
+  /* border: 1px solid #607D8B; */
+  border: 1px solid #ccc;
+  /* border-radius: 3px; */
   padding: 0.1rem 0.5rem;
 }
 
@@ -800,7 +800,7 @@ blockquote {
 }
 
 pre {
-  padding: 1rem 2rem;
+  /* padding: 1rem 2rem; */
   overflow-x: auto;
 }
 
