@@ -3,7 +3,7 @@ layout: post
 title: React Native Introduction
 date: 2018-04-26 00:00:00 +0300
 description: React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. # Add post description (optional)
-img: introduction.png # Add image post (optional)
+img: react-native-introduction.png # Add image post (optional)
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native] # add tag
 ---
 

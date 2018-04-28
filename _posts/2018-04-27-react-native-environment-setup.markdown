@@ -1,9 +1,9 @@
 ---
 layout: post
 title: React Native Environment Setup
-date: 2018-04-26 00:00:00 +0300
+date: 2018-04-27 00:00:00 +0300
 description: There are a couple of things you need to install to set up the environment for React Native. We will use linux as our building platform. # Add post description (optional)
-img: environment-setup.png # Add image post (optional)
+img: react-native-environment-setup.png # Add image post (optional)
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native] # add tag
 ---
 
@@ -55,4 +55,12 @@ This step will open your app in the Android emulator. Run the following command 
 
 ```
 react-native run-android
+```
+
+### Run the App on iOS simulator
+
+This step will open your app in the iOS simulator. Run the following command in another terminal.
+
+```
+react-native run-ios
 ```
