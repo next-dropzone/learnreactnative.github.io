@@ -7,7 +7,7 @@ img: react-native-default-structure.png # Add image post (optional)
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native] # add tag
 ---
 
-One of the great things about React Native is the flexibility. You can do just about anything including organize the project however you want. This is great! But can be daunting as well, especially to new developers.
+One of the great things about React Native is the flexibility. You can do just about anything including organize the project however you want. This is great! But can be daunting as well, especially to new developers.
 
 Before diving into coding let's do a quick overview of what you're getting by default. This will help you understand what you are working with and what everything means.
 
