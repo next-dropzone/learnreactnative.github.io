@@ -17,7 +17,7 @@ One solution that developers have turned to is Facebook's Flux architecture. Flu
 
 The architecture diagram shown below; how Redux fits together with React Native in a mobile application. It shows the key components of the application, the relations among them, and the properties of both. As mentioned earlier, the responsibility of an application's view layer is handled by React Native components, where the data or model layer of the application is handled by Redux. Native modules are another small but important part of the application. These modules of the code are written in Native platforms (iOS/Android) for functionalities that are not available in React Native.
 
-![react native organize structure](/assets/img/react-native-redux-diagram.png)
+![react native with redux architecture](/assets/img/react-native-redux-diagram.png)
 
 Below is a brief description of each of components from this architecture.
 
