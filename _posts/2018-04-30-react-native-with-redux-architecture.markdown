@@ -2,7 +2,7 @@
 layout: post
 title: React Native with Redux Architecture
 date: 2018-04-29 00:00:00 +0300
-description: React Native is a popular user interface (UI) library for mobile app development.
+description: React Native is a popular user interface (UI) library for mobile app development. Because it has no guidelines or defined patterns for managing data within an application, it can be used with practically any framework or library. That being said, developers have increasingly been searching for a data management solution created specifically with React in mind and that shares some of its principles. One solution that developers have turned to is Facebook's Flux architecture.
 img: react-native-with-redux-architecture.png
 tags: [react native, mobile, mobile app, mobile development, react, react native training, learn react native]
 ---
